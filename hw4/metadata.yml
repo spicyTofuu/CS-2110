@@ -1,0 +1,12 @@
+---
+:id: 30560427
+:submitters:
+- :name: Jiaxuan Chen
+  :email: jchen813@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-26 18:27:44.553075000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-26 10:27:44.553075000 Z
+:status: processed
+:score: 100.0
